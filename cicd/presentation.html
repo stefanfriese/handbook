@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Continuous Everything: CI & CD</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body { font-family: 'Droid Serif'; }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+      .inverse {
+        background: #272822;
+        color: #d4d5d2;
+        text-shadow: 0 0 20px #333;
+      }
+      .inverse h1, .inverse h2 {
+        color: #f3f3f3;
+        line-height: 0.8em;
+      }
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+name: inverse
+layout: true
+class: center, middle, inverse
+---
+#Continuous Everything – CI & CD
+.footnote[Stefan Friese - Code University of Applied Science]
+---
+template: inverse
+
+# 11.6 seconds
+
+--
+
+Amazon delivers new code every 11.6 seconds.
+
+---
+template: inverse
+
+# What is Continuous Delivery?
+
+--
+
+keep it clean, ready to deploy
+
+--
+
+The ability to get changes (features, config changes, bug fixes) into production safely, quickly, and in a sustainable way.
+
+---
+template: inverse
+# Why CI & CD?
+
+--
+
+<br>make releases painless, low risk events
+<br>reduce time to market
+<br>increase software quality
+<br>increase customer satisfaction
+
+---
+template: inverse
+# CI & CD Principles 
+
+--
+
+<br>automated deployment pipeline
+<br>everyone commits to mainline every day
+<br>build quality in
+<br>work in small batches
+<br>everyone is responsible
+
+---
+template: inverse
+# Continuous Integration
+
+--
+
+each check-in is validated by:
+<br>an automated build
+<br>automated tests
+
+---
+template: inverse
+# Continuous Delivery
+
+--
+
+<br>automate the whole pipeline to ensure that the software can be deployed to production
+<br>enables push-button deployments
+
+---
+template: inverse
+# Continuous Deployment
+
+--
+
+<br>the whole pipeline - including releasing on production - is automated
+
+---
+template: inverse
+# How to measure benefits?
+
+--
+
+<br>lead time for changes
+<br>release frequency
+<br>time to restore service
+<br>change failure rate
+
+    </textarea>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create();
+    </script>
+    <script src="//remarkjs.com/downloads/remark-latest.min.js"></script>
+    <script type="text/javascript">
+      var hljs = remark.highlighter.engine;
+    </script>
+  </body>
+</html>
