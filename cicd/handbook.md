@@ -50,7 +50,7 @@ To successfully perform Continuous Delivery:
 5. Deployments should be idempotent
 
 ## Your CI Toolchain
-###Version Control
+### Version Control
 
 Git - https://git-scm.com/
 
