@@ -65,7 +65,8 @@ Jenkins - https://jenkins.io/
 *	Jenkins is the most widely adopted CI system; many plugins are available.
 
 Jenkins-X - https://jenkins-x.io/
-* Jenkins-X (JX) focuses CI&CD for Kubernetes based applications. It provides an integrated GitOps workflow.
+* A way to automatically create and run CI/CD pipelines in a cloud environment.
+* Provides “on-demand” pipelines with (GitOps) workflows built-in.
 
 GoCD - https://www.go.cd/
 *	Continuous delivery server with a value stream map view integrated as its core functionality (and thus unlike Jenkins not with plugins).
