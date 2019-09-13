@@ -234,15 +234,19 @@ Chef and Ansible use a procedural style language where you write code that speci
 https://aws.amazon.com/cloudformation/
 *	Getting started with templates (yml, json): https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/gettingstarted.templatebasics.html
 
-
 Hashicorp Terraform
 https://www.terraform.io/
+* define, provision, and manage infrastructure on-prem and in-cloud
 
 Chef
 https://www.chef.io/
+* configuration management tool that uses a DSL for system configuration "recipes"
+* Foodcritic (Lint tool for Chef cookbooks) - http://www.foodcritic.io/
+* Chefspec - https://docs.chef.io/chefspec.html - framework that tests resources and recipes as part of a simulated Chef Infra Client run
 
 Puppet
 https://puppet.com/
+* configuration management tool that uses a declarative language to describe the state of a system in terms of resources
 
 Ansible
 https://www.ansible.com/
@@ -252,13 +256,7 @@ Ansible is (e.g. compared to Chef) agent-less, it uses ssh to connect to server.
 
 Cfengine
 https://cfengine.com/
-
-Foodcritic (Lint tool for Chef cookbooks)
-http://www.foodcritic.io/
-
-Chefspec
-https://docs.chef.io/chefspec.html
-ChefSpec is a framework that tests resources and recipes as part of a simulated Chef Infra Client run
+* configuration management tool
 
 kitchenCI
 http://kitchen.ci/
