@@ -293,6 +293,7 @@ http://kubernetes.io/
 *	GitOps https://www.weave.works/technologies/gitops/ - GitOps is a way to do Kubernetes cluster management and application delivery.  It works by using Git as a single source of truth for declarative infrastructure and applications.
 *	Rancher http://rancher.com/ - Kubernetes management
 *	Open Shift https://www.openshift.com/ - Kubernetes platform
+* Amazon EKS - https://aws.amazon.com/eks/ - Kubernetes on AWS
 
 Further Resources about Container, Docker, Kubernetes:
 Oliver Liebel Skalierbare, Container-Infrastrukturen: Das Handbuch für Administratoren und DevOps-Teams
@@ -493,6 +494,10 @@ https://www.statuspage.io/
 
 Rundeck
 http://rundeck.org/ 
+
+nip.io - wildcard DNS service that can map any IP address to a hostname
+https://nip.io/
+
 
 ## Lean
 7 Principles of Lean Software Development
