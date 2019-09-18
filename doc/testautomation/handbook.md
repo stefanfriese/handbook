@@ -16,6 +16,7 @@
 # Acceptance Tests
 * Cucumber - Standard BDD framework which includes Cucumber-rb, Cucumber-jvm and others - https://cucumber.io/
 * JBehave – BDD framework - https://jbehave.org/
+See also: http://angiejones.tech/writing-good-gherkin-enables-good-test-automation/
 
 # Functional Test Frameworks
 * Appium - most commonly used framework for mobile tests - http://appium.io/
@@ -38,5 +39,6 @@
 * Peach Fuzzer – API Fuzzer - https://www.peach.tech/ 
 * clair – static analysis of vulnerabilities in application containers - https://github.com/coreos/clair
 * hadolint – DockerFile linter – https://github.com/hadolint/hadolint
+* Aqua - scans container images - https://github.com/aquasecurity/microscanner
 * Find Security Bugs - https://find-sec-bugs.github.io/
 
