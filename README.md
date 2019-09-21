@@ -29,5 +29,5 @@ https://pragprog.com/book/mnee/release-it
 Lean Software Development: An Agile Toolkit, by Mary and Tom Poppendieck
 https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783
 
-Sam Newman, Design, Build, Ship: Faster, Safer So􀁸ware Delivery
+Sam Newman, Design, Build, Ship: Faster, Safer Software Delivery
 https://www.amazon.de/Design-Build-Ship-Software-Delivery/dp/1491984872/
