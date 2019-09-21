@@ -83,7 +83,7 @@ Circle CI - https://circleci.com/
 * Simple GitHub integration
 
 GitLab - https://about.gitlab.com/
-*	GitLab tries to provides a comprehensive CI&CD functionality.
+*	GitLab is based on GitOps concepts and tries to provides a comprehensive CI&CD functionality.
 
 Bitrise - https://www.bitrise.io/
 *	CI&CD platform as a service (PaaS) with a main focus on mobile app development
