@@ -20,6 +20,7 @@ Eventually, you can select for a trial “My IP” to improve security but note 
 * AmazonEC2FullAccess
 * AmazonVPCFullAccess
 * AmazonS3FullAccess.
+
 Hit Next Step, review, and then "Create Group."
 
 3) Create a new user, select "Users" from the left sidebar, then "Add user," and use "jenkins" as the user name. Click on both "programmatic access" and "AWS management console access." The defaults for auto-generated password and "users must create a new password at next sign-in" are OK and should be kept. Hit "Next", and add the "jenkins" user to the "jenkins" group. Hit "next," no need to add "Tags." Review, and accept. Capture the Access Key, Secret Access Key, and the password so that you can log in as that user (easy to just download the csv file).
