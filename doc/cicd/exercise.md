@@ -1,8 +1,8 @@
 # Exercise – Jenkins Pipelines on AWS
 Deploy and run a Jenkins instance on AWS, configure Jenkins, and create a pipeline.
 
-##Before you begin
-AWS Account, IAM username and password, EC2 Key pair
+## Before you begin
+AWS Account (AWS Educate, promotional credit issued), IAM username and password, EC2 Key pair
 
 ## Infrastructure
 Raise AWS EC2 instance:
