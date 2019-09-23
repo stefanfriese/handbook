@@ -2,7 +2,7 @@
 Deploy and run a Jenkins instance on AWS, configure Jenkins, and create a pipeline.
 
 ## Before you begin
-AWS Account (AWS Educate, promotional credit issued), IAM username and password, EC2 Key pair
+AWS Account (AWS Educate, promotional credit issued).
 
 ## Infrastructure
 In short - raise AWS EC2 instance:
@@ -99,12 +99,21 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 Blue Ocean re-skins Jenkins to make management easier. It makes Jenkins become IasC (Infrastructure as Code).
 
+In "Manage Jenkins", Select "Manager Plugins", select "Available" and search for "blueocean".
+Select the different Blue Ocean plugins and then "install without restart".
+
 
 ## Adding GitHub Repo to the Pipeline 
 Blue Ocean > Create a new Pipeline > Connect to GitHub > Create new token > select repo
-Note that you shall select a repo which includes a jenkinsfile.
+
+Note that, if you have no GitHub access token, you have to create one.
+
+Note that you shall select a repo which includes a jenkinsfile, i.e. copy/clone code "https://github.com/continuouseverything/static"
+
+## Install required applications
 ```shell
-sudo install docker.io
-sudo usermod -aG  docker jenkins
-sudo systemctl restart jenkins
+sudo apt install tidy
 ```
+
+## Restart pipeline
+The lint step fails and warning messages are shown.
