@@ -5,7 +5,7 @@ Deploy and run a Jenkins instance on AWS, configure Jenkins, and create a pipeli
 AWS Account (AWS Educate, promotional credit issued), IAM username and password, EC2 Key pair
 
 ## Infrastructure
-Raise AWS EC2 instance:
+In short - raise AWS EC2 instance:
 * Ubuntu 18.04
 * t2.micro
 * tag: Name: Jenkins
