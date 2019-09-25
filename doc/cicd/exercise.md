@@ -106,7 +106,7 @@ Select the different Blue Ocean plugins and then "install without restart".
 
 
 ## Adding GitHub Repo to the Pipeline 
-Blue Ocean > Create a new Pipeline > Connect to GitHub > Create new token > select repo
+> in the Blue Ocean view: 'Create a new Pipeline', 'Connect to GitHub', 'Create new token', 'select repo'
 
 Note that, if you have no GitHub access token, you have to create one.
 
