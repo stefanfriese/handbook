@@ -4,7 +4,7 @@
 The article by Martin Fowler that popularized the terms, and is still highly relevant today:
 https://martinfowler.com/articles/continuousIntegration.html 
 
-The book on CI/CD (published 2010): **Continuous Delivery**: Reliable Software Releases through Build, Test, and Deployment Automation https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
+The book on CI/CD (by Jez Humble and David Farley, published 2010): **Continuous Delivery**: Reliable Software Releases through Build, Test, and Deployment Automation https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
 *	Breakthrough book that is about how to treat the entire software lifecycle as a single process, and one that can be automated.
 
 The Phoenix Project is a Thriller Novel about IT & DevOps https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592
