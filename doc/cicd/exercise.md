@@ -1,6 +1,8 @@
 # Exercise – Jenkins Pipelines on AWS
 Deploy and run a Jenkins instance on AWS, configure Jenkins, and create a pipeline.
 
+Note that you could also install Jenkins with Docker as described here: https://jenkins.io/doc/book/installing/.
+
 ## Before you begin
 AWS Account (AWS Educate, promotional credit issued).
 
