@@ -27,6 +27,11 @@ Seven lean principles:
 6) Build integrity in
 7) See the whole
 
+The Three Ways: The Principles Underpinning DevOps by Gene Kim (2012) https://itrevolution.com/the-three-ways-principles-underpinning-devops/
+* First Way: System Thinking (performance of the entire system instead of silos)
+* Second Way: Amplify Feedback Loops (to ensure short right to left feedback within the pipeline)
+* Third Way: Culture of Continual Experimentation and Learning (taking risks and learning from failure)
+
 ## Continuous Integration Practices
 Continuous Integration (CI) is a development practice where developers integrate code into a shared repository frequently, preferably several times a day. Each integration can then be verified by an automated build and automated tests. Source: https://codeship.com/continuous-integration-essentials
 
