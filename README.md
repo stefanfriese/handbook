@@ -11,7 +11,7 @@ The Phoenix Project is a Thriller Novel about IT & DevOps https://www.amazon.com
 *	https://en.wikipedia.org/wiki/The_Phoenix_Project_(novel)
 *	Note: In November, “Unicorn Project” will be released: https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving/dp/1942788762/
 
-**DevOps Handbook** - similar authors and material as Phoenix Project, but in non-fictional form (and a bit deeper): https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002, http://itrevolution.com/devops-handbook
+**DevOps Handbook** - similar authors (Gene Kim et al) and material as Phoenix Project, but in non-fictional form (and a bit deeper): https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002, http://itrevolution.com/devops-handbook
 
 **Accelerate**: The Science of Lean Software and Devops: Building and Scaling High Performing Technology Organizations, by Nicole Forsgren Phd, Jez Humble, Gene Kim: https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339
 
