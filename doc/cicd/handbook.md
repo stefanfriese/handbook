@@ -1,6 +1,8 @@
 # Continuous Integration & Continuous Delivery
 
-## Small + Fast = Better
+## Important CI/CD Concepts
+
+### Small + Fast = Better
 Continuous Delivery has the following benefits:
 1.	Time to market goes down
 2.	Quality increases not decreases
@@ -32,7 +34,7 @@ The Three Ways: The Principles Underpinning DevOps by Gene Kim (2012) https://it
 * Second Way: Amplify Feedback Loops (to ensure short right to left feedback within the pipeline)
 * Third Way: Culture of Continual Experimentation and Learning (taking risks and learning from failure)
 
-## Continuous Integration Practices
+### Continuous Integration Practices
 Continuous Integration (CI) is a development practice where developers integrate code into a shared repository frequently, preferably several times a day. Each integration can then be verified by an automated build and automated tests. Source: https://codeship.com/continuous-integration-essentials
 
 To successfully perform Continuous Integration:
@@ -43,7 +45,8 @@ To successfully perform Continuous Integration:
 5. Don't allow flaky tests, fix them!
 6. The build should return a status, a log, and an artifact
 
-## The Continuous Delivery Pipeline
+### The Continuous Delivery Pipeline
+(aka 'deployment pipeline')
 Continuous delivery is a strategy wherein any code commit is tested automatically to ensure that it is in a releasable state if the automated tests are passing.
 Continuous deployment is a strategy for software releases wherein any code commit that passes the automated testing is automatically released into the production environment, making changes that are visible to the software's users https://searchitoperations.techtarget.com/definition/continuous-deployment
 
@@ -54,7 +57,10 @@ To successfully perform Continuous Delivery:
 4. Stop deploys if it a previous step fails
 5. Deployments should be idempotent
 
-## Your CI Toolchain
+Value Stream Map (VSM) https://www.gocd.org/getting-started/part-3/
+The VSM is the full end-to-end view across deployment pipelines (from commits to production)
+
+## CI/CD Toolchain
 ### Version Control
 
 Git - https://git-scm.com/
@@ -64,7 +70,7 @@ Github - https://github.com/
 Gerrit - https://www.gerritcodereview.com/
 *	Git / Gerrit Code Reviews
 
-### Continuous Integration
+### CI/CD Systems
 
 Jenkins - https://jenkins.io/
 *	Jenkins is the most widely adopted CI system; many plugins are available.
