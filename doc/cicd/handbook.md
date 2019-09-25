@@ -15,11 +15,10 @@ Continuous Delivery has the following benefits:
 Deming's 14 Key Points - https://deming.org/explore/fourteen-points?apartner=aarp
 *	Deming laid much of the groundwork for CI & CD, i.e. the Deming’s 14 key points and the Deming cycle, a continuous quality improvement model which consists of a logical sequence of four key stages: Plan, Do, Study, and Act.
 
-Rafal Leszko, Continuous Delivery with Docker and Jenkins
-https://www.amazon.de/Continuous-Delivery-Docker-Jenkins-Leszko/dp/1787125238/ref=sr_1_24?s=books-intlde&ie=UTF8&qid=1505217371&sr=1-24&keywords=docker 
 
 Mary Poppendieck, Lean Software Development: An Agile Toolkit for Software Development Managers
 https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783
+
 Seven lean principles:
 1) Eliminate waste
 2) Amplify learning
@@ -29,13 +28,16 @@ Seven lean principles:
 6) Build integrity in
 7) See the whole
 
+
 The Three Ways: The Principles Underpinning DevOps by Gene Kim (2012) https://itrevolution.com/the-three-ways-principles-underpinning-devops/
 * First Way: System Thinking (performance of the entire system instead of silos)
 * Second Way: Amplify Feedback Loops (to ensure short right to left feedback within the pipeline)
 * Third Way: Culture of Continual Experimentation and Learning (taking risks and learning from failure)
 
+
 ### Continuous Integration Practices
 Continuous Integration (CI) is a development practice where developers integrate code into a shared repository frequently, preferably several times a day. Each integration can then be verified by an automated build and automated tests. Source: https://codeship.com/continuous-integration-essentials
+
 
 To successfully perform Continuous Integration:
 1. Builds should pass the coffee test (< 5 minutes)
@@ -47,6 +49,7 @@ To successfully perform Continuous Integration:
 
 ### The Continuous Delivery Pipeline
 (aka 'deployment pipeline')
+
 Continuous delivery is a strategy wherein any code commit is tested automatically to ensure that it is in a releasable state if the automated tests are passing.
 Continuous deployment is a strategy for software releases wherein any code commit that passes the automated testing is automatically released into the production environment, making changes that are visible to the software's users https://searchitoperations.techtarget.com/definition/continuous-deployment
 
@@ -58,7 +61,9 @@ To successfully perform Continuous Delivery:
 5. Deployments should be idempotent
 
 Value Stream Map (VSM) https://www.gocd.org/getting-started/part-3/
+
 The VSM is the full end-to-end view across deployment pipelines (from commits to production)
+
 
 ## CI/CD Toolchain
 ### Version Control
@@ -74,6 +79,8 @@ Gerrit - https://www.gerritcodereview.com/
 
 Jenkins - https://jenkins.io/
 *	Jenkins is the most widely adopted CI system; many plugins are available.
+* Rafal Leszko, Continuous Delivery with Docker and Jenkins
+https://www.amazon.de/Continuous-Delivery-Docker-Jenkins-Leszko/dp/1787125238/ref=sr_1_24?s=books-intlde&ie=UTF8&qid=1505217371&sr=1-24&keywords=docker 
 
 Jenkins-X - https://jenkins-x.io/
 * A way to automatically create and run CI/CD pipelines in a cloud environment (i.e. for Kubernetes-based apps).
