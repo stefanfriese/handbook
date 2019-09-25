@@ -1,19 +1,19 @@
 # Continuous Everything Agenda
 
-## Sep 26 - CI/CD
+## Sep 26 - CI/CD part 1
 * Introduction
 * Lecture (30 minutes)
-* Exercise (Jenkins)
+* Exercise (_ _Jenkins_ _)
 * Coaching
 
-## Oct 10 - Continuous Testing
+## Oct 10 - CI/CD part 2: Continuous Testing
 * Lecture (30 minutes)
-* Exercise (Test Stages in CI/CD)
+* Exercise (_ _Test Stages in CI/CD_ _)
 * Coaching
 
 ## Nov 7 - DevOps
 * Lecture (30 minutes)
-* Exercise (Prometheus, Ansible)
+* Exercise (_ _Prometheus, Ansible_ _)
 * Coaching
 
 ## Dec 5 - Continuous Everything
