@@ -1,3 +1,15 @@
+# Books
+A Practical Guide to Testing in DevOps by Katrina Clokie - https://leanpub.com/testingindevops
+
+https://www.martinfowler.com/articles/microservice-testing/
+
+David Farley (2016): Acceptance Testing for Continuous Delivery. https://www.infoq.com/presentations/acceptance-testing-cd (slides: QConLondon2016-DaveFarley-DevOpsCICD.pdf)
+
+More Agile Testing by Janet Gregory and Lisa Crispin - https://www.amazon.com/dp/0321967054
+
+https://continuousdelivery.com/foundations/test-automation/
+
+
 # Test Tools
 
 ## Unit Test Frameworks
@@ -15,7 +27,7 @@
 
 # Acceptance Tests
 * Cucumber - Standard BDD framework which includes Cucumber-rb, Cucumber-jvm and others - https://cucumber.io/
-* JBehave – BDD framework - https://jbehave.org/
+* JBehave – Java BDD framework - https://jbehave.org/
 
 See also: http://angiejones.tech/writing-good-gherkin-enables-good-test-automation/
 
