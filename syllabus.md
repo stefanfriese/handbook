@@ -11,7 +11,7 @@
 * Exercise *(Test Stages in CI/CD)*
 * Coaching
 
-## Nov 7 - DevOps
+## Nov 14 - DevOps
 * Lecture *(30 minutes)*
 * Exercise *(Prometheus, Ansible)*
 * Coaching
