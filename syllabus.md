@@ -17,5 +17,5 @@
 
 ## Dec 5 - Continuous Everything
 * Lecture
-  * The lecture is about how to bring the different topics (CI/CD, DevOps, IaC, ...) together
+  * The lecture is about how the different practices (CI/CD, DevOps, IaC, ...) benefit from each other.
 * Coaching
