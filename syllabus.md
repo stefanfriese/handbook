@@ -4,19 +4,18 @@
 * Introduction
 * Lecture *(30 minutes)*
 * Exercise *(Jenkins)*
-* Coaching
 
 ## Oct 10 - CI/CD part 2: Continuous Testing
-* Lecture *(30 minutes)*
-* Exercise *(Test Stages in CI/CD)*
+* Lecture
+* Exercise *(Test Stages in CI/CD)* and/or:
 * Coaching
 
 ## Nov 14 - DevOps
-* Lecture *(30 minutes)*
+* Lecture
 * Exercise *(Prometheus, Ansible)*
 * Coaching
 
 ## Dec 5 - Continuous Everything
-* Lecture *(30 minutes)*
+* Lecture
   * The lecture is about how to bring the different topics (CI/CD, DevOps, IaC, ...) together
 * Coaching
