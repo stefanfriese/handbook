@@ -290,8 +290,6 @@ http://kubernetes.io/
 *	Kubernetes vs Docker: https://containerjournal.com/topics/container-ecosystems/kubernetes-vs-docker-a-primer/amp/
 *	Linux Foundation Online Course https://training.linuxfoundation.org/training/introduction-to-kubernetes/
 *	minikube https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/
-*	GitOps https://www.weave.works/technologies/gitops/ - GitOps is a way to do Kubernetes cluster management and application delivery.  It works by using Git as a single source of truth for declarative infrastructure and applications.
-*	Rancher http://rancher.com/ - Kubernetes management
 *	Open Shift https://www.openshift.com/ - Kubernetes platform
 * Amazon EKS - https://aws.amazon.com/eks/ - Kubernetes on AWS
 
@@ -337,6 +335,14 @@ AWS Serverless Application Model (SAM) is an open-source framework for building 
 
 Optimizing Your Serverless Applications - AWS Online Tech Talks:
 https://www.youtube.com/watch?v=DYQ8pXrktBM
+
+## GitOps
+GitOps https://www.weave.works/technologies/gitops/ - GitOps is a way to do Kubernetes cluster management and application delivery.  It works by using Git as a single source of truth for declarative infrastructure and applications.
+* CNCF Flux: Flux is a tool that automatically ensures that the state of a cluster matches the config in git. It uses an operator in the cluster to trigger deployments inside Kubernetes, which means you don't need a separate Continuous Deployment tool.
+* ArgoCD: https://argoproj.github.io/argo-cd/
+* Gitkube: https://github.com/hasura/gitkube - Gitkube is a tool for building and deploying Docker images on Kubernetes using git push.
+* Tekton: https://cloud.google.com/tekton/
+* JenkinsX
 
 ## SRE
 The SRE concept (Site Reliability Engineering) was created by Google. It's increasingly common in organizations seeking to advance adoption of DevOps and run highly reliable services. Key characteristics of SRE are:
