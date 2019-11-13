@@ -220,4 +220,4 @@ Save & Test, tab ‘Dashboards’
 
 Training environment: https://www.katacoda.com/courses/kubernetes/playground
 
-Trainings repo: github.com/continuouseverything/gitops101
+Trainings repo: https://github.com/continuouseverything/gitops101
