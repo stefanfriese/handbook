@@ -33,12 +33,23 @@ ssh -i <key_name>.pem ubuntu@<public_ip>
 Note: If you need a root password, see: https://aws.amazon.com/premiumsupport/knowledge-center/set-change-root-linux/
 
 
-1. Prep steps:
+Prep steps:
 ```shell
+sudo apt update
+
 sudo apt install ansible python-pip
 
 pip install tox
+```
+Note: For Python3, use:
+```shell
+sudo apt install python3-pip
 
+pip3 install tox
+```
+
+Get Ansible
+```shell
 git clone https://github.com/cloudalchemy/ansible-prometheus
 ```
 
@@ -52,7 +63,7 @@ mv defaults/ handlers/ meta/ molecule/ tasks/ templates/ vars/ roles/cloudalchem
 ```
 
 Create Ansible Playbook (based on README.md)
-See main.yml in repository
+See [main.yml](../main.yml) in repository
 
 Inventory for Ansible: inventory file in repository
 
