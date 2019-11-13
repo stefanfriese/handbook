@@ -2,9 +2,9 @@
 
 # GitOps
 
-Training environment: https://www.katacoda.com/courses/kubernetes/playground
-
 Trainings repo: https://github.com/continuouseverything/gitops101
+
+Trainings environment: https://www.katacoda.com/courses/kubernetes/playground
 
 
 # Exercise - Install Prometheus
