@@ -63,7 +63,7 @@ mv defaults/ handlers/ meta/ molecule/ tasks/ templates/ vars/ roles/cloudalchem
 ```
 
 Create Ansible Playbook (based on README.md)
-See [main.yml](../main.yml) in repository
+See [main.yml](main.yml) in repository
 
 Inventory for Ansible: inventory file in repository
 
