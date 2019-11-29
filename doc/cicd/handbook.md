@@ -64,6 +64,7 @@ Value Stream Map (VSM) https://www.gocd.org/getting-started/part-3/
 
 The VSM is the full end-to-end view across deployment pipelines (from commits to production)
 
+Deployment Pipeline Design and The Theory Of Constraints: https://www.continuousdeliveryconsulting.com/blog/deployment-pipeline-design-and-the-theory-of-constraints/ 
 
 ## CI/CD Toolchain
 ### Version Control
@@ -74,6 +75,10 @@ Github - https://github.com/
 
 Gerrit - https://www.gerritcodereview.com/
 *	Git / Gerrit Code Reviews
+
+Trunk-based development:
+* https://www.infoq.com/news/2018/04/trunk-based-development/
+* https://trunkbaseddevelopment.com/
 
 ### CI/CD Systems
 
