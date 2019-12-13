@@ -1,7 +1,8 @@
 # Books
 A Practical Guide to Testing in DevOps by Katrina Clokie - https://leanpub.com/testingindevops
 
-https://www.martinfowler.com/articles/microservice-testing/
+Martin Fowler:
+https://martinfowler.com/testing/
 
 David Farley (2016): Acceptance Testing for Continuous Delivery. https://www.infoq.com/presentations/acceptance-testing-cd (slides: QConLondon2016-DaveFarley-DevOpsCICD.pdf)
 
