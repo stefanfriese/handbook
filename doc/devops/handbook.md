@@ -55,6 +55,9 @@ Practices for DevOps Success
 *	Blue/Green Deployments
 *	“The Cloud”
 
+AWS Builders' Library ("How Amazon builds and operates software)
+https://aws.amazon.com/builders-library
+
 Incident Command for IT: What We Can Learn From The Fire Department, by Brent Chapman
 https://www.usenix.org/legacy/event/lisa05/tech/chapman.pdf
 
