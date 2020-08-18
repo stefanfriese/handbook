@@ -295,6 +295,7 @@ http://kubernetes.io/
 *	minikube https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/
 *	Open Shift https://www.openshift.com/ - Kubernetes platform
 * Amazon EKS - https://aws.amazon.com/eks/ - Kubernetes on AWS
+* Kubernetes Patterns - https://k8spatterns.io/
 
 Further Resources about Container, Docker, Kubernetes:
 Oliver Liebel Skalierbare, Container-Infrastrukturen: Das Handbuch für Administratoren und DevOps-Teams
