@@ -55,6 +55,9 @@ Practices for DevOps Success
 *	Blue/Green Deployments
 *	“The Cloud”
 
+Lectures on Lean-Agile Product Management, 2015-2020 Jez Humble, licensed CC BY-SA
+https://lectures.leanagile.pm/
+
 AWS Builders' Library ("How Amazon builds and operates software)
 https://aws.amazon.com/builders-library
 
