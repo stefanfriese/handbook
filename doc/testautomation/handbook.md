@@ -1,4 +1,4 @@
-# Books
+# Books and Guides
 A Practical Guide to Testing in DevOps by Katrina Clokie - https://leanpub.com/testingindevops
 
 Martin Fowler:
@@ -9,6 +9,9 @@ David Farley (2016): Acceptance Testing for Continuous Delivery. https://www.inf
 More Agile Testing by Janet Gregory and Lisa Crispin - https://www.amazon.com/dp/0321967054
 
 https://continuousdelivery.com/foundations/test-automation/
+
+Google DevOps Tech: Continues testing
+https://cloud.google.com/solutions/devops/devops-tech-test-automation
 
 
 # Test Tools
