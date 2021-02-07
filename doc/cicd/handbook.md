@@ -12,6 +12,8 @@ Continuous Delivery has the following benefits:
 
 **Continuous Delivery, by Jez Humble and David Farley** https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
 
+Continuous Delivery Pipelines. How to Build Better Software Faster by David Farley 2021 - https://leanpub.com/cd-pipelines
+
 Deming's 14 Key Points - https://deming.org/explore/fourteen-points?apartner=aarp
 *	Deming laid much of the groundwork for CI & CD, i.e. the Deming’s 14 key points and the Deming cycle, a continuous quality improvement model which consists of a logical sequence of four key stages: Plan, Do, Study, and Act.
 
