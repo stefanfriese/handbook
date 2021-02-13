@@ -13,8 +13,7 @@ https://continuousdelivery.com/foundations/test-automation/
 Google DevOps Tech: Continues testing
 https://cloud.google.com/solutions/devops/devops-tech-test-automation
 
-Collection of Continuous Testing articles by Lisa Crispin
-https://cur.at/NvrXFKO?m=email&sid=1Vw5T0v
+Collection of Continuous Testing articles by Lisa Crispin - https://cur.at/NvrXFKO?m=email&sid=1Vw5T0v
 
 # Test Tools
 
