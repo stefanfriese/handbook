@@ -62,3 +62,8 @@ See also: http://angiejones.tech/writing-good-gherkin-enables-good-test-automati
 * Aqua - scans container images - https://github.com/aquasecurity/microscanner
 * Find Security Bugs - https://find-sec-bugs.github.io/
 
+# Continuous Delivery for Machine Learning (CD4ML) and testing ML
+* https://martinfowler.com/articles/cd4ml.html
+* https://dzone.com/articles/qa-blackbox-testing-for-machine-learning-models
+* https://vitalflux.com/qa-metamorphic-testing-machine-learning/
+* https://www.infoq.com/articles/testing-next-gen/
