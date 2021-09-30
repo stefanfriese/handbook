@@ -15,6 +15,8 @@ https://cloud.google.com/solutions/devops/devops-tech-test-automation
 
 Collection of Continuous Testing articles by Lisa Crispin - https://cur.at/NvrXFKO?m=email&sid=1Vw5T0v
 
+Testing in Production by Cindy Sridharan - https://copyconstruct.medium.com/testing-in-production-the-safe-way-18ca102d0ef1
+
 # Test Tools
 
 ## Unit Test Frameworks
