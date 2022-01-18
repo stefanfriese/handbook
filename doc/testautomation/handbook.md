@@ -16,6 +16,8 @@ https://cloud.google.com/solutions/devops/devops-tech-test-automation
 Collection of Continuous Testing articles by Lisa Crispin - https://cur.at/NvrXFKO?m=email&sid=1Vw5T0v
 
 Testing in Production by Cindy Sridharan - https://copyconstruct.medium.com/testing-in-production-the-safe-way-18ca102d0ef1
+Testing Microservices (Daniel Bryant, 1-14-2022) - https://blog.getambassador.io/testing-microservices-youre-thinking-about-environment-isolation-all-wrong-84f22034a6ef
+Testing Microservices: an Overview of 12 Useful Techniques (8-15-2019) - https://www.infoq.com/articles/twelve-testing-techniques-microservices-intro/
 
 # Test Tools
 
