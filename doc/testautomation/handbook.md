@@ -33,6 +33,7 @@ Testing Microservices: an Overview of 12 Useful Techniques (8-15-2019) - https:/
 # API and Contract Tests
 * RESTassured - Java REST API test framework, supports JSON schema validation and parameterized tests - http://rest-assured.io/
 * Pact – most popular Contract Test Framework - https://github.com/pact-foundation
+** see also: https://slides.com/mariedrake/contract-testing-101 and https://github.com/mdcruz/pact-js-example
 
 # Acceptance Tests
 * Cucumber - Standard BDD framework which includes Cucumber-rb, Cucumber-jvm and others - https://cucumber.io/
