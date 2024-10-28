@@ -15,7 +15,8 @@ The Phoenix Project is a Thriller Novel about IT & DevOps https://www.amazon.com
 
 **Accelerate**: The Science of Lean Software and Devops: Building and Scaling High Performing Technology Organizations, by Nicole Forsgren Phd, Jez Humble, Gene Kim: https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339
 
-**2019 State of DevOps Report** https://cloud.google.com/devops/state-of-devops/
+**State of DevOps Report** https://cloud.google.com/devops/state-of-devops/
+***2024 State of DevOps: https://services.google.com/fh/files/misc/2024_final_dora_report.pdf
 
 ## Further Resources
 
